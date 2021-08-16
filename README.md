@@ -6,4 +6,4 @@ this is a simple readme file
 
 Doing something that should be backed out
 
-This is bound to cause trouble
+just soemthing going on 
